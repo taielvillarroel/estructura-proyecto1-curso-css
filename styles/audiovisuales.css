@@ -1,0 +1,27 @@
+.delado{
+  float: left;
+  width: auto;
+}
+
+.centrado{
+    display: flex;
+    justify-content: center;
+}
+
+.galeria{
+    margin: 5px;
+    width: 33vw;
+    border: 2px solid grey;
+    float: left
+}
+
+.galeria img{
+    width: 100%;
+    height: auto;
+}
+
+.description{
+    padding: 15px;
+    text-align: center;
+    letter-spacing: 2px;
+}

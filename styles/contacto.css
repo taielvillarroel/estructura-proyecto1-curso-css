@@ -1,0 +1,37 @@
+.contenedor{
+    background-color: grey;
+    border-radius: 10px;
+    margin: 10px 0;
+    padding: 20px;
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
+
+input[type="text"],
+input[type="email"],
+select,
+textarea{
+    width: 100%;
+    border: 2px solid rgb(252, 150, 150);
+    border-radius: 10px;
+    padding: 10px ;
+    margin: 8px 0;
+}
+
+input[type="submit"]{
+    width: 50%;
+    padding: 15px;
+    border-radius: 10px;
+    position: relative;
+    left:25%;
+    border: none;
+    color: white;
+    background-color: cadetblue;
+    transition: 0.2s;
+}
+input[type="submit"]:hover{
+    padding: 20px 0;
+    background-color: rgb(48, 110, 112);
+    transition: 0.2s;
+}
