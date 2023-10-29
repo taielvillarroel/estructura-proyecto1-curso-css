@@ -1,0 +1,35 @@
+
+
+p{
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* clases */
+
+.subtitulo{
+    margin: 10px;
+    font-size: 20px;
+}
+
+.container{
+    max-width: 100%;
+    padding: 20px;
+    margin: 0 auto;
+
+}
+
+.image{
+    float: right;   
+    padding: 0 0 20px 20px;
+    max-width: 25%;
+    height: auto;
+}
+
+.imageTwo{
+    float: left;
+    padding: 0 20px 20px 0;
+    max-width: 25%;
+    height: auto;
+}
